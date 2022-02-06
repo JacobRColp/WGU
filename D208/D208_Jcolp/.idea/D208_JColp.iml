@@ -6,5 +6,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Python 3.10 (D208_Jcolp)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="D207" />
+    <orderEntry type="module" module-name="D206" />
   </component>
 </module>
